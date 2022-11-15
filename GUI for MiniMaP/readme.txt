@@ -1,1 +1,1 @@
-# GUI for MiniMaP
+GUI for MiniMaP
